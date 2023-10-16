@@ -3,7 +3,7 @@
 <img align="right" src=https://cdni.iconscout.com/illustration/premium/thumb/coder-3462295-2895977.png" alt="programmer" width="300"/>
 
 
-- 🌱 I’m currently learning **Full Stack Web Development with MERN**
+- 🌱 I’m currently exploring **Full Stack Web Development with MERN**
 
 - 📫 How to reach me **thebikashpokhrel@gmail.com**
 
