@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bikash Pokhrel</h1>
 <h3 align="center">Exploring the realm of Computer Science and Engineering</h3>
 
-- 🌱 I’m currently learning **Full Stack Web DEV with NextJS and MERN**
+- 🌱 I’m currently doing **Full Stack Web DEV with NextJS and MERN**
 
 - 📫 How to reach me **thebikashpokhrel@gmail.com**
 
