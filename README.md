@@ -4,7 +4,7 @@
 
 - 🎓 Studying Electronics, Communication & Information Engineering
 - 🌱 Interested in Web Dev, Systems Design and Engineering, Mathematics
-- 📚 Currently learning AWS Solution Archtecting, Backend Engineering
+- 📚 Currently learning AWS Solution Architecting, Backend Engineering
 
 ---
 
@@ -30,10 +30,9 @@
 
 ### 📫 **Let’s Connect**
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/thebikashpokhrel/](https://www.linkedin.com/in/thebikashpokhrel/)
-- 📘 Facebook: [https://www.facebook.com/bikash404](https://www.facebook.com/bikash404)
+-[💼 LinkedIn](https://www.linkedin.com/in/thebikashpokhrel/)
+-[📘 Facebook](https://www.facebook.com/bikash404)
 - 📧 Email: thebikashpokhrel@gmail.com
-<br />
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebikashpokhrel&show_icons=true&locale=en&layout=compact" alt="thebikashpokhrel" /></p>
 
