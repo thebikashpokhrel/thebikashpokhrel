@@ -4,7 +4,8 @@
 
 - 🎓 Studying Electronics, Communication & Information Engineering
 - 🌱 Interested in Web Dev, Systems Design and Engineering, Mathematics
-- 📚 Currently learning AWS Solution Architecting, Backend Engineering
+- ✅ AWS Certified Solutions Architect - Associate
+-  📚 Currently learning Image Processing and Computer Vision
 
 ---
 
